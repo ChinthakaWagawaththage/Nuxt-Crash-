@@ -18,7 +18,7 @@
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
           <NuxtLink to="/products" class="nav-link">
-            Cars
+            Super Cars
             <span class="sr-only">(current)</span>
           </NuxtLink>
         </li>
